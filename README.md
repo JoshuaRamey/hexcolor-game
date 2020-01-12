@@ -6,3 +6,7 @@ Click the button to start the game. A group of six colors will be given at rando
 
 Challenges:
 In this project one of my biggest challenges was finding a way to create multiple colors completely at random. I wanted the possibility of any color imaginable to have the chance of appearing in this game, and to do so without hard-coding it seemed impossible when I first started the project. Hard-coding them all would also have been a huge undertaking, hence the wish to completely automate that process. I was very proud when I made a function that could perform the task needed to create any color possible.
+
+
+#### Update (January 2020)
+I worked on this project as practice while I was looking for my first job. My skills have increased dramatically since that point, and this project no longer represents my skill as a developer. However, I am leaving the project on GitHub to keep a record of some of my earliest projects and show how far I have progressed.
